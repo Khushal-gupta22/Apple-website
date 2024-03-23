@@ -31,20 +31,18 @@ To get a local copy up and running, follow these simple steps:
 
 1. Clone the repo
    ```sh
-   git clone `https://github.com/Khushal-gupta22/Apple-website.git` or download the zip file
-    ```
+   git clone https://github.com/Khushal-gupta22/Apple-website.git or download the zip file
+   ```
 2. Install dependencies
-    ```sh
-    yarn or npm install
-    ```
+   ```sh
+   yarn or npm install
+   ```
 3. Start the development server
-    ```sh
-    yarn run dev or npm run dev
-    ```
+   ```sh
+   yarn dev or npm run dev
+   ```
 4. Open your browser and navigate to `http://localhost:5173` to see the website in action!
 
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-
