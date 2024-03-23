@@ -31,7 +31,7 @@ To get a local copy up and running, follow these simple steps:
 
 1. Clone the repo
    ```sh
-   git clone
+   git clone `https://github.com/Khushal-gupta22/Apple-website.git` or download the zip file
     ```
 2. Install dependencies
     ```sh
